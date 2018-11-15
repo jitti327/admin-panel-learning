@@ -1,0 +1,29 @@
+Create a panel 
+
+ Add following fields in all the tables you create.
+
+ --> id
+ --> created_on
+ --> updated_on
+
+ -- > Class 
+    --> Title
+    --> Description
+    --> Duration
+
+ -- > Create Subject
+
+   --> title
+   --> description
+   --> Practical Number
+   --> Theoretical Number
+   --> Examination Time
+   --> Class -- Linked with above details ( show as dropdown )
+
+
+--> Create Chapters
+
+    --> Title
+    --> Description
+    --> Number assigned --- ( Kitne number ka paper is chapter mein say aaye ga)
+    --> Subject -- Linked with above Subject
