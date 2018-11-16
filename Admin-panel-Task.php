@@ -54,3 +54,26 @@ Make a sreen in which you are going to list
 
 --> In admin panel make 3 tabs to manage, city , state and country
 
+
+/****** Task Added To Preevious Task On  11/16/2018 ******/
+
+--> Country
+--> State
+--> District
+--> City
+
+
+In listing of city
+
+  -> Show city name, district name, state name & country name.
+
+
+
+--> When adding City
+
+  --> Country dropdown
+  --> State dropdown -- (based on country)
+  --> District dropdown -- (based on state)
+
+URL-->
+https://www.codexworld.com/dynamic-dependent-select-box-using-jquery-ajax-php/
