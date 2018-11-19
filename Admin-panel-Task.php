@@ -77,3 +77,8 @@ In listing of city
 
 URL-->
 https://www.codexworld.com/dynamic-dependent-select-box-using-jquery-ajax-php/
+
+
+-->Adding New Task for listing page of country state district and city:-
+
+  a) Make link clickable in country, state  & district.
